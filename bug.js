@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API and attempting to take a picture with a custom flash mode. The flash mode is set correctly, however, the image captured always appears as if the flash was not used, resulting in an underexposed image. This happens inconsistently, sometimes working correctly, other times failing to engage the flash.
